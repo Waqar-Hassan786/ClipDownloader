@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ClipDownloader - Iron Tech Edition</title>
+    <!-- Tailwind CSS via CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        ironRed: '#e62429',
+                        ironGold: '#f0b323',
+                        ironDark: '#1a1a1a',
+                        ironLight: '#f0f0f0'
+                    }
+                }
+            }
+        }
+    </script>
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&family=Exo+2:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-ironDark text-ironLight font-[Exo2] min-h-screen">
+    <!-- Glowing background effect -->
+    <div class="glow-effect"></div>
+
+    <div class="container mx-auto p-4 sm:p-6 lg:p-8 max-w-6xl z-10 relative">
+        
+        <!-- Header -->
+        <header class="text-center mb-12">
+            <div class="tech-border inline-block p-3 mb-6">
+                <h1 class="text-5xl sm:text-6xl font-[Orbitron] font-bold">
+                    <span class="text-ironRed">Clip</span><span class="text-ironGold">Downloader</span>
+                </h1>
+            </div>
+            <p class="text-2xl text-ironLight/80">ULTIMATE MEDIA EXTRACTION SYSTEM</p>
+        </header>
+
+        <!-- Main Downloader Interface -->
+        <main class="tech-panel p-8 sm:p-10">
+            
+            <!-- Service Tabs -->
+            <div class="flex justify-center mb-10">
+                <div class="iron-tabs">
+                    <button data-service="youtube" class="iron-tab active-tab"><i class="fab fa-youtube mr-3"></i>YOUTUBE</button>
+                    <button data-service="instagram" class="iron-tab"><i class="fab fa-instagram mr-3"></i>INSTAGRAM</button>
+                    <button data-service="tiktok" class="iron-tab"><i class="fab fa-tiktok mr-3"></i>TIKTOK</button>
+                    <button data-service="pinterest" class="iron-tab"><i class="fab fa-pinterest mr-3"></i>PINTEREST</button>
+                </div>
+            </div>
+
+            <!-- Input Form -->
+            <form id="download-form">
+                <!-- URL Input -->
+                <div class="mb-10">
+                    <label for="video-url" class="block text-xl font-[Orbitron] text-ironGold mb-4">TARGET URL</label>
+                    <div class="relative">
+                        <input type="url" id="video-url" placeholder="ENTER VIDEO LINK" class="iron-input text-xl py-5">
+                        <button type="button" id="paste-button" class="absolute right-6 top-1/2 -translate-y-1/2 text-ironGold hover:text-ironRed transition-colors text-2xl">
+                            <i class="fas fa-paste"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Download Options (Initially for YouTube) -->
+                <div id="youtube-options" class="mb-10">
+                    <label class="block text-xl font-[Orbitron] text-ironGold mb-6">EXTRACTION MODE</label>
+                    <div class="grid grid-cols-2 gap-6">
+                        <label class="iron-card">
+                            <input type="radio" name="download-type" value="video-clip" class="hidden">
+                            <div class="iron-icon">
+                                <i class="fas fa-cut text-3xl"></i>
+                            </div>
+                            <span class="text-xl font-bold mt-4">VIDEO CLIP</span>
+                        </label>
+                        <label class="iron-card">
+                            <input type="radio" name="download-type" value="shorts" class="hidden">
+                            <div class="iron-icon">
+                                <i class="fas fa-bolt text-3xl"></i>
+                            </div>
+                            <span class="text-xl font-bold mt-4">SHORTS</span>
+                        </label>
+                        <label class="iron-card">
+                            <input type="radio" name="download-type" value="audio-full" class="hidden">
+                            <div class="iron-icon">
+                                <i class="fas fa-music text-3xl"></i>
+                            </div>
+                            <span class="text-xl font-bold mt-4">FULL AUDIO</span>
+                        </label>
+                        <label class="iron-card">
+                            <input type="radio" name="download-type" value="audio-clip" class="hidden">
+                            <div class="iron-icon">
+                                <i class="fas fa-sliders-h text-3xl"></i>
+                            </div>
+                            <span class="text-xl font-bold mt-4">AUDIO CLIP</span>
+                        </label>
+                    </div>
+                </div>
+
+                <!-- Timestamp Inputs (Hidden by default) -->
+                <div id="timestamp-section" class="hidden grid grid-cols-2 gap-8 mb-10">
+                    <div>
+                        <label for="start-time" class="block text-xl font-[Orbitron] text-ironGold mb-4">START TIME</label>
+                        <input type="text" id="start-time" placeholder="00:01:30" class="iron-input text-xl py-5">
+                    </div>
+                    <div>
+                        <label for="end-time" class="block text-xl font-[Orbitron] text-ironGold mb-4">END TIME</label>
+                        <input type="text" id="end-time" placeholder="00:01:45" class="iron-input text-xl py-5">
+                    </div>
+                </div>
+
+                <!-- Download Button -->
+                <button type="submit" id="download-button" class="iron-button">
+                    <div class="button-glow"></div>
+                    <i class="fas fa-download mr-4"></i>
+                    <span>INITIALIZE DOWNLOAD</span>
+                </button>
+            </form>
+
+            <!-- Status/Result Area -->
+            <div id="status-area" class="mt-10">
+                <!-- Messages will be injected here by JS -->
+            </div>
+        </main>
+        
+        <footer class="text-center mt-10 text-ironLight/60 text-lg">
+            <p>POWERED BY ADVANCED TECH • EXTRACTION ENGINE v4.2</p>
+        </footer>
+
+    </div>
+
+    <!-- JavaScript File -->
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

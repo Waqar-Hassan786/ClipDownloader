@@ -1,0 +1,733 @@
+2025-09-02 10:05:23,577 - werkzeug - INFO -  * Restarting with stat
+2025-09-02 10:05:24,414 - werkzeug - WARNING -  * Debugger is active!
+2025-09-02 10:05:24,421 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-02 10:05:24,492 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-02 10:05:58,890 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:05:58] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-09-02 10:05:59,577 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:05:59] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-09-02 10:05:59,577 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:05:59] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-09-02 10:05:59,615 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:05:59] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-09-02 10:05:59,617 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:05:59] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:05:59,629 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:05:59] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:06:35,123 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Downloads\\files (29)\\app.py', reloading
+2025-09-02 10:06:35,213 - werkzeug - INFO -  * Restarting with stat
+2025-09-02 10:06:51,551 - werkzeug - INFO -  * Restarting with stat
+2025-09-02 10:06:52,316 - werkzeug - WARNING -  * Debugger is active!
+2025-09-02 10:06:52,327 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-02 10:06:52,407 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-02 10:07:17,422 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:07:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-09-02 10:07:17,977 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:07:17] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-09-02 10:07:17,977 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:07:17] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-09-02 10:07:17,993 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:07:17] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-09-02 10:07:17,998 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:07:17] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:07:18,010 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:07:18] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:07:20,457 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:07:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-09-02 10:07:20,478 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:07:20] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-09-02 10:07:20,489 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:07:20] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-09-02 10:07:20,498 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:07:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:07:20,508 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:07:20] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-09-02 10:07:20,534 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:07:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:09:54,040 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-09-02 10:09:54,082 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:54] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-09-02 10:09:54,084 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:54] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-09-02 10:09:54,103 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:54] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-09-02 10:09:54,107 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:54] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:09:54,153 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:54] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:09:55,315 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-09-02 10:09:55,375 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:55] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-09-02 10:09:55,381 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:55] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-09-02 10:09:55,406 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:55] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-09-02 10:09:55,412 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:55] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:09:55,459 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:55] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:09:55,759 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-09-02 10:09:55,797 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:55] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-09-02 10:09:55,813 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:55] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-09-02 10:09:55,861 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:55] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-09-02 10:09:55,879 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:55] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:09:55,952 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:55] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:09:56,234 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-09-02 10:09:56,265 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:56] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-09-02 10:09:56,299 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:56] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-09-02 10:09:56,355 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:56] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-09-02 10:09:56,366 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:56] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:09:56,390 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:56] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:09:56,593 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-09-02 10:09:56,627 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:56] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-09-02 10:09:56,644 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:56] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-09-02 10:09:56,663 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:56] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-09-02 10:09:56,678 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:56] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:09:56,699 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:09:56] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:10:34,596 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Downloads\\files (29)\\app.py', reloading
+2025-09-02 10:10:34,744 - werkzeug - INFO -  * Restarting with stat
+2025-09-02 10:10:35,954 - werkzeug - WARNING -  * Debugger is active!
+2025-09-02 10:10:35,963 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-02 10:10:36,076 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-02 10:10:48,742 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:10:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-09-02 10:10:49,785 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:10:49] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-09-02 10:10:49,785 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:10:49] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-09-02 10:10:49,830 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:10:49] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-09-02 10:10:49,830 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:10:49] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:10:49,873 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:10:49] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:10:54,276 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:10:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-09-02 10:10:54,338 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:10:54] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-09-02 10:10:54,345 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:10:54] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-09-02 10:10:54,358 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:10:54] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-02 10:10:54,358 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:10:54] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-09-02 10:10:54,396 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 10:10:54] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-06 07:58:49,786 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 07:58:50,801 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 07:58:50,805 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 07:58:50,891 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 07:59:09,112 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 07:59:09] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-09-06 07:59:10,706 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 07:59:10] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-09-06 07:59:10,708 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 07:59:10] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-09-06 07:59:10,739 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 07:59:10] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-09-06 07:59:10,740 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 07:59:10] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-06 08:00:13,855 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-06 08:00:13,993 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:00:15,220 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:00:15,223 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:00:15,292 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:00:23,982 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-06 08:00:24,104 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:00:25,248 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:00:25,252 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:00:25,312 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:00:27,112 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:00:27] "GET / HTTP/1.1" 200 -
+2025-09-06 08:00:28,262 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:00:28] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-09-06 08:00:28,262 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:00:28] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-09-06 08:00:28,458 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:00:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-06 08:01:36,456 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:01:36] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:01:37,476 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:01:37] "GET /progress/ac7a083a-c040-45c9-a58d-3f0d8c5fa7b8 HTTP/1.1" 200 -
+2025-09-06 08:01:38,488 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:01:38] "GET /progress/ac7a083a-c040-45c9-a58d-3f0d8c5fa7b8 HTTP/1.1" 200 -
+2025-09-06 08:01:39,476 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:01:39] "GET /progress/ac7a083a-c040-45c9-a58d-3f0d8c5fa7b8 HTTP/1.1" 200 -
+2025-09-06 08:01:40,474 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:01:40] "GET /progress/ac7a083a-c040-45c9-a58d-3f0d8c5fa7b8 HTTP/1.1" 200 -
+2025-09-06 08:01:41,482 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:01:41] "GET /progress/ac7a083a-c040-45c9-a58d-3f0d8c5fa7b8 HTTP/1.1" 200 -
+2025-09-06 08:01:42,224 - __main__ - ERROR - Error during download process: download_range() takes 1 positional argument but 2 were given
+2025-09-06 08:01:42,475 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:01:42] "GET /progress/ac7a083a-c040-45c9-a58d-3f0d8c5fa7b8 HTTP/1.1" 200 -
+2025-09-06 08:02:05,447 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:02:05] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:02:06,467 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:02:06] "GET /progress/9a46e463-17fb-4e71-b36b-0aa3c3476d2c HTTP/1.1" 200 -
+2025-09-06 08:02:07,466 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:02:07] "GET /progress/9a46e463-17fb-4e71-b36b-0aa3c3476d2c HTTP/1.1" 200 -
+2025-09-06 08:02:08,471 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:02:08] "GET /progress/9a46e463-17fb-4e71-b36b-0aa3c3476d2c HTTP/1.1" 200 -
+2025-09-06 08:02:09,467 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:02:09] "GET /progress/9a46e463-17fb-4e71-b36b-0aa3c3476d2c HTTP/1.1" 200 -
+2025-09-06 08:02:10,173 - __main__ - ERROR - Error during download process: [0;31mERROR:[0m unable to download video data: HTTP Error 403: Forbidden
+2025-09-06 08:02:10,461 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:02:10] "GET /progress/9a46e463-17fb-4e71-b36b-0aa3c3476d2c HTTP/1.1" 200 -
+2025-09-06 08:04:35,339 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:04:35] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:04:36,360 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:04:36] "GET /progress/81f1d2b5-045f-4840-9ebb-fc5073b03eb5 HTTP/1.1" 200 -
+2025-09-06 08:04:37,356 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:04:37] "GET /progress/81f1d2b5-045f-4840-9ebb-fc5073b03eb5 HTTP/1.1" 200 -
+2025-09-06 08:04:38,358 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:04:38] "GET /progress/81f1d2b5-045f-4840-9ebb-fc5073b03eb5 HTTP/1.1" 200 -
+2025-09-06 08:04:39,367 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:04:39] "GET /progress/81f1d2b5-045f-4840-9ebb-fc5073b03eb5 HTTP/1.1" 200 -
+2025-09-06 08:04:39,766 - __main__ - ERROR - Error during download process: [0;31mERROR:[0m [Instagram] DOPnw-9DLk8: Requested content is not available, rate-limit reached or login required. Use --cookies, --cookies-from-browser, --username and --password, or --netrc (instagram) to provide account credentials
+2025-09-06 08:04:40,358 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:04:40] "GET /progress/81f1d2b5-045f-4840-9ebb-fc5073b03eb5 HTTP/1.1" 200 -
+2025-09-06 08:08:17,062 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:08:17] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:08:18,079 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:08:18] "GET /progress/e5f75400-5cb2-41e6-a34d-1dadccbef727 HTTP/1.1" 200 -
+2025-09-06 08:08:19,081 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:08:19] "GET /progress/e5f75400-5cb2-41e6-a34d-1dadccbef727 HTTP/1.1" 200 -
+2025-09-06 08:08:20,075 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:08:20] "GET /progress/e5f75400-5cb2-41e6-a34d-1dadccbef727 HTTP/1.1" 200 -
+2025-09-06 08:08:21,076 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:08:21] "GET /progress/e5f75400-5cb2-41e6-a34d-1dadccbef727 HTTP/1.1" 200 -
+2025-09-06 08:08:22,140 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:08:22] "GET /progress/e5f75400-5cb2-41e6-a34d-1dadccbef727 HTTP/1.1" 200 -
+2025-09-06 08:08:22,386 - __main__ - ERROR - Error during download process: [0;31mERROR:[0m unable to download video data: HTTP Error 403: Forbidden
+2025-09-06 08:08:23,074 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:08:23] "GET /progress/e5f75400-5cb2-41e6-a34d-1dadccbef727 HTTP/1.1" 200 -
+2025-09-06 08:12:43,190 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:12:44,675 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:12:44,677 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:12:44,754 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:12:51,047 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:12:51] "GET / HTTP/1.1" 200 -
+2025-09-06 08:12:52,571 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:12:52] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-09-06 08:12:52,572 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:12:52] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-09-06 08:13:02,132 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:02] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:13:03,211 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:03] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:04,223 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:04] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:05,160 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:05] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:06,153 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:06] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:07,149 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:07] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:08,161 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:08] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:09,149 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:09] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:10,186 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:10] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:11,247 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:11] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:12,228 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:12] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:13,215 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:13] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:14,209 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:14] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:15,223 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:15] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:16,234 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:16] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:17,218 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:17] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:18,154 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:18] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:19,168 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:19] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:20,156 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:20] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:21,163 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:21] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:22,156 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:22] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:23,155 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:23] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:24,150 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:24] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:25,151 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:25] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:26,151 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:26] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:27,152 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:27] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:28,157 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:28] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:29,155 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:29] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:30,150 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:30] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:31,155 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:31] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:32,156 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:32] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:33,156 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:33] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:34,153 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:34] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:35,157 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:35] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:36,146 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:36] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:37,999 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:37] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:39,001 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:39] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:39,998 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:39] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:40,993 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:40] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:41,995 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:41] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:42,993 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:42] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:43,992 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:43] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:44,999 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:44] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:13:45,997 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:13:45] "GET /progress/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1" 200 -
+2025-09-06 08:14:44,526 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:14:44] "[33mGET /downloads/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1[0m" 404 -
+2025-09-06 08:14:52,861 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:14:52] "[33mGET /downloads/7c01a77b-d66d-48e1-89ae-555209bf73e1 HTTP/1.1[0m" 404 -
+2025-09-06 08:15:06,430 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:06] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:15:07,450 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:07] "GET /progress/d5e7d52f-ed60-4f28-8a86-7f6dce8f6cf1 HTTP/1.1" 200 -
+2025-09-06 08:15:08,445 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:08] "GET /progress/d5e7d52f-ed60-4f28-8a86-7f6dce8f6cf1 HTTP/1.1" 200 -
+2025-09-06 08:15:09,454 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:09] "GET /progress/d5e7d52f-ed60-4f28-8a86-7f6dce8f6cf1 HTTP/1.1" 200 -
+2025-09-06 08:15:10,452 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:10] "GET /progress/d5e7d52f-ed60-4f28-8a86-7f6dce8f6cf1 HTTP/1.1" 200 -
+2025-09-06 08:15:11,512 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:11] "GET /progress/d5e7d52f-ed60-4f28-8a86-7f6dce8f6cf1 HTTP/1.1" 200 -
+2025-09-06 08:15:12,508 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:12] "GET /progress/d5e7d52f-ed60-4f28-8a86-7f6dce8f6cf1 HTTP/1.1" 200 -
+2025-09-06 08:15:13,501 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:13] "GET /progress/d5e7d52f-ed60-4f28-8a86-7f6dce8f6cf1 HTTP/1.1" 200 -
+2025-09-06 08:15:14,505 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:14] "GET /progress/d5e7d52f-ed60-4f28-8a86-7f6dce8f6cf1 HTTP/1.1" 200 -
+2025-09-06 08:15:15,443 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:15] "GET /progress/d5e7d52f-ed60-4f28-8a86-7f6dce8f6cf1 HTTP/1.1" 200 -
+2025-09-06 08:15:16,449 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:16] "GET /progress/d5e7d52f-ed60-4f28-8a86-7f6dce8f6cf1 HTTP/1.1" 200 -
+2025-09-06 08:15:17,446 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:17] "GET /progress/d5e7d52f-ed60-4f28-8a86-7f6dce8f6cf1 HTTP/1.1" 200 -
+2025-09-06 08:15:18,442 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:18] "GET /progress/d5e7d52f-ed60-4f28-8a86-7f6dce8f6cf1 HTTP/1.1" 200 -
+2025-09-06 08:15:19,449 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:19] "GET /progress/d5e7d52f-ed60-4f28-8a86-7f6dce8f6cf1 HTTP/1.1" 200 -
+2025-09-06 08:15:20,448 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:20] "GET /progress/d5e7d52f-ed60-4f28-8a86-7f6dce8f6cf1 HTTP/1.1" 200 -
+2025-09-06 08:15:22,970 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:22] "GET /downloads/d5e7d52f-ed60-4f28-8a86-7f6dce8f6cf1 HTTP/1.1" 200 -
+2025-09-06 08:15:58,852 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:58] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:15:59,877 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:15:59] "GET /progress/c6a37ef8-56ca-455b-996c-53de2df4c69a HTTP/1.1" 200 -
+2025-09-06 08:16:00,875 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:16:00] "GET /progress/c6a37ef8-56ca-455b-996c-53de2df4c69a HTTP/1.1" 200 -
+2025-09-06 08:16:01,884 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:16:01] "GET /progress/c6a37ef8-56ca-455b-996c-53de2df4c69a HTTP/1.1" 200 -
+2025-09-06 08:16:02,874 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:16:02] "GET /progress/c6a37ef8-56ca-455b-996c-53de2df4c69a HTTP/1.1" 200 -
+2025-09-06 08:16:03,962 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:16:03] "GET /progress/c6a37ef8-56ca-455b-996c-53de2df4c69a HTTP/1.1" 200 -
+2025-09-06 08:16:04,926 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:16:04] "GET /progress/c6a37ef8-56ca-455b-996c-53de2df4c69a HTTP/1.1" 200 -
+2025-09-06 08:16:05,921 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:16:05] "GET /progress/c6a37ef8-56ca-455b-996c-53de2df4c69a HTTP/1.1" 200 -
+2025-09-06 08:16:06,936 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:16:06] "GET /progress/c6a37ef8-56ca-455b-996c-53de2df4c69a HTTP/1.1" 200 -
+2025-09-06 08:16:07,604 - __main__ - ERROR - Error during download process: download_range() takes 1 positional argument but 2 were given
+2025-09-06 08:16:07,876 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:16:07] "GET /progress/c6a37ef8-56ca-455b-996c-53de2df4c69a HTTP/1.1" 200 -
+2025-09-06 08:17:04,855 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:04] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:17:05,875 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:05] "GET /progress/29cffcba-1eb9-4073-9e3b-5ae2a404dd04 HTTP/1.1" 200 -
+2025-09-06 08:17:06,877 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:06] "GET /progress/29cffcba-1eb9-4073-9e3b-5ae2a404dd04 HTTP/1.1" 200 -
+2025-09-06 08:17:07,870 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:07] "GET /progress/29cffcba-1eb9-4073-9e3b-5ae2a404dd04 HTTP/1.1" 200 -
+2025-09-06 08:17:08,866 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:08] "GET /progress/29cffcba-1eb9-4073-9e3b-5ae2a404dd04 HTTP/1.1" 200 -
+2025-09-06 08:17:09,935 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:09] "GET /progress/29cffcba-1eb9-4073-9e3b-5ae2a404dd04 HTTP/1.1" 200 -
+2025-09-06 08:17:10,948 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:10] "GET /progress/29cffcba-1eb9-4073-9e3b-5ae2a404dd04 HTTP/1.1" 200 -
+2025-09-06 08:17:11,901 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:11] "GET /progress/29cffcba-1eb9-4073-9e3b-5ae2a404dd04 HTTP/1.1" 200 -
+2025-09-06 08:17:12,971 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:12] "GET /progress/29cffcba-1eb9-4073-9e3b-5ae2a404dd04 HTTP/1.1" 200 -
+2025-09-06 08:17:13,880 - __main__ - ERROR - Error during download process: download_range() takes 1 positional argument but 2 were given
+2025-09-06 08:17:13,883 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:13] "GET /progress/29cffcba-1eb9-4073-9e3b-5ae2a404dd04 HTTP/1.1" 200 -
+2025-09-06 08:17:14,882 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:14] "GET /progress/29cffcba-1eb9-4073-9e3b-5ae2a404dd04 HTTP/1.1" 200 -
+2025-09-06 08:17:25,565 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:25] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:17:26,588 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:26] "GET /progress/633bdb57-bb3d-4f16-a6f9-e32db7bc315d HTTP/1.1" 200 -
+2025-09-06 08:17:27,592 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:27] "GET /progress/633bdb57-bb3d-4f16-a6f9-e32db7bc315d HTTP/1.1" 200 -
+2025-09-06 08:17:28,590 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:28] "GET /progress/633bdb57-bb3d-4f16-a6f9-e32db7bc315d HTTP/1.1" 200 -
+2025-09-06 08:17:29,583 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:29] "GET /progress/633bdb57-bb3d-4f16-a6f9-e32db7bc315d HTTP/1.1" 200 -
+2025-09-06 08:17:30,639 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:30] "GET /progress/633bdb57-bb3d-4f16-a6f9-e32db7bc315d HTTP/1.1" 200 -
+2025-09-06 08:17:31,662 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:31] "GET /progress/633bdb57-bb3d-4f16-a6f9-e32db7bc315d HTTP/1.1" 200 -
+2025-09-06 08:17:32,642 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:32] "GET /progress/633bdb57-bb3d-4f16-a6f9-e32db7bc315d HTTP/1.1" 200 -
+2025-09-06 08:17:33,602 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:33] "GET /progress/633bdb57-bb3d-4f16-a6f9-e32db7bc315d HTTP/1.1" 200 -
+2025-09-06 08:17:34,459 - __main__ - ERROR - Error during download process: download_range() takes 1 positional argument but 2 were given
+2025-09-06 08:17:34,589 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:17:34] "GET /progress/633bdb57-bb3d-4f16-a6f9-e32db7bc315d HTTP/1.1" 200 -
+2025-09-06 08:18:00,151 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:00] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:18:01,177 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:01] "GET /progress/d62ff9e6-7bb7-4f38-b21d-48054cf82599 HTTP/1.1" 200 -
+2025-09-06 08:18:02,179 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:02] "GET /progress/d62ff9e6-7bb7-4f38-b21d-48054cf82599 HTTP/1.1" 200 -
+2025-09-06 08:18:03,165 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:03] "GET /progress/d62ff9e6-7bb7-4f38-b21d-48054cf82599 HTTP/1.1" 200 -
+2025-09-06 08:18:04,179 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:04] "GET /progress/d62ff9e6-7bb7-4f38-b21d-48054cf82599 HTTP/1.1" 200 -
+2025-09-06 08:18:05,247 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:05] "GET /progress/d62ff9e6-7bb7-4f38-b21d-48054cf82599 HTTP/1.1" 200 -
+2025-09-06 08:18:06,229 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:06] "GET /progress/d62ff9e6-7bb7-4f38-b21d-48054cf82599 HTTP/1.1" 200 -
+2025-09-06 08:18:07,210 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:07] "GET /progress/d62ff9e6-7bb7-4f38-b21d-48054cf82599 HTTP/1.1" 200 -
+2025-09-06 08:18:08,207 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:08] "GET /progress/d62ff9e6-7bb7-4f38-b21d-48054cf82599 HTTP/1.1" 200 -
+2025-09-06 08:18:09,172 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:09] "GET /progress/d62ff9e6-7bb7-4f38-b21d-48054cf82599 HTTP/1.1" 200 -
+2025-09-06 08:18:10,174 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:10] "GET /progress/d62ff9e6-7bb7-4f38-b21d-48054cf82599 HTTP/1.1" 200 -
+2025-09-06 08:18:11,165 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:11] "GET /progress/d62ff9e6-7bb7-4f38-b21d-48054cf82599 HTTP/1.1" 200 -
+2025-09-06 08:18:13,594 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:13] "GET /downloads/d62ff9e6-7bb7-4f38-b21d-48054cf82599 HTTP/1.1" 200 -
+2025-09-06 08:18:53,653 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:53] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:18:54,672 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:54] "GET /progress/24fa83e2-6e69-46eb-915a-31aac8269d0d HTTP/1.1" 200 -
+2025-09-06 08:18:55,671 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:55] "GET /progress/24fa83e2-6e69-46eb-915a-31aac8269d0d HTTP/1.1" 200 -
+2025-09-06 08:18:56,677 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:56] "GET /progress/24fa83e2-6e69-46eb-915a-31aac8269d0d HTTP/1.1" 200 -
+2025-09-06 08:18:57,673 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:57] "GET /progress/24fa83e2-6e69-46eb-915a-31aac8269d0d HTTP/1.1" 200 -
+2025-09-06 08:18:58,677 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:18:58] "GET /progress/24fa83e2-6e69-46eb-915a-31aac8269d0d HTTP/1.1" 200 -
+2025-09-06 08:19:01,129 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:19:01] "GET /downloads/24fa83e2-6e69-46eb-915a-31aac8269d0d HTTP/1.1" 200 -
+2025-09-06 08:20:22,270 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:20:22] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:20:23,284 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:20:23] "GET /progress/7d4e37f6-227e-4fe2-ae2c-3452a4272e2c HTTP/1.1" 200 -
+2025-09-06 08:20:24,295 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:20:24] "GET /progress/7d4e37f6-227e-4fe2-ae2c-3452a4272e2c HTTP/1.1" 200 -
+2025-09-06 08:20:25,291 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:20:25] "GET /progress/7d4e37f6-227e-4fe2-ae2c-3452a4272e2c HTTP/1.1" 200 -
+2025-09-06 08:20:26,285 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:20:26] "GET /progress/7d4e37f6-227e-4fe2-ae2c-3452a4272e2c HTTP/1.1" 200 -
+2025-09-06 08:20:27,284 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:20:27] "GET /progress/7d4e37f6-227e-4fe2-ae2c-3452a4272e2c HTTP/1.1" 200 -
+2025-09-06 08:20:28,292 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:20:28] "GET /progress/7d4e37f6-227e-4fe2-ae2c-3452a4272e2c HTTP/1.1" 200 -
+2025-09-06 08:20:28,435 - __main__ - ERROR - Error during download process: [0;31mERROR:[0m [Pinterest] 839499186812905853: Requested format is not available. Use --list-formats for a list of available formats
+2025-09-06 08:20:29,286 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:20:29] "GET /progress/7d4e37f6-227e-4fe2-ae2c-3452a4272e2c HTTP/1.1" 200 -
+2025-09-06 08:22:34,141 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:22:34] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:22:35,162 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:22:35] "GET /progress/f3186d06-9e1b-4ced-9bd4-449fe63382df HTTP/1.1" 200 -
+2025-09-06 08:22:36,165 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:22:36] "GET /progress/f3186d06-9e1b-4ced-9bd4-449fe63382df HTTP/1.1" 200 -
+2025-09-06 08:22:37,158 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:22:37] "GET /progress/f3186d06-9e1b-4ced-9bd4-449fe63382df HTTP/1.1" 200 -
+2025-09-06 08:22:38,167 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:22:38] "GET /progress/f3186d06-9e1b-4ced-9bd4-449fe63382df HTTP/1.1" 200 -
+2025-09-06 08:22:38,989 - __main__ - ERROR - Error during download process: [0;31mERROR:[0m [Pinterest] 1109504058194485464: Requested format is not available. Use --list-formats for a list of available formats
+2025-09-06 08:22:39,164 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:22:39] "GET /progress/f3186d06-9e1b-4ced-9bd4-449fe63382df HTTP/1.1" 200 -
+2025-09-06 08:22:48,512 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:22:48] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:22:49,529 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:22:49] "GET /progress/cc16a6d9-5b32-4eaf-8110-965dba58f5d6 HTTP/1.1" 200 -
+2025-09-06 08:22:50,527 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:22:50] "GET /progress/cc16a6d9-5b32-4eaf-8110-965dba58f5d6 HTTP/1.1" 200 -
+2025-09-06 08:22:51,526 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:22:51] "GET /progress/cc16a6d9-5b32-4eaf-8110-965dba58f5d6 HTTP/1.1" 200 -
+2025-09-06 08:22:52,530 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:22:52] "GET /progress/cc16a6d9-5b32-4eaf-8110-965dba58f5d6 HTTP/1.1" 200 -
+2025-09-06 08:22:53,522 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:22:53] "GET /progress/cc16a6d9-5b32-4eaf-8110-965dba58f5d6 HTTP/1.1" 200 -
+2025-09-06 08:22:54,350 - __main__ - ERROR - Error during download process: [0;31mERROR:[0m [Pinterest] 1109504058194485464: Requested format is not available. Use --list-formats for a list of available formats
+2025-09-06 08:22:54,528 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:22:54] "GET /progress/cc16a6d9-5b32-4eaf-8110-965dba58f5d6 HTTP/1.1" 200 -
+2025-09-06 08:23:17,127 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:23:17] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:23:18,154 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:23:18] "GET /progress/9dba235e-dd5d-4a44-8c33-e0baad1cae4c HTTP/1.1" 200 -
+2025-09-06 08:23:19,157 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:23:19] "GET /progress/9dba235e-dd5d-4a44-8c33-e0baad1cae4c HTTP/1.1" 200 -
+2025-09-06 08:23:20,143 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:23:20] "GET /progress/9dba235e-dd5d-4a44-8c33-e0baad1cae4c HTTP/1.1" 200 -
+2025-09-06 08:23:21,142 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:23:21] "GET /progress/9dba235e-dd5d-4a44-8c33-e0baad1cae4c HTTP/1.1" 200 -
+2025-09-06 08:23:22,151 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:23:22] "GET /progress/9dba235e-dd5d-4a44-8c33-e0baad1cae4c HTTP/1.1" 200 -
+2025-09-06 08:23:23,707 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:23:23] "GET /downloads/9dba235e-dd5d-4a44-8c33-e0baad1cae4c HTTP/1.1" 200 -
+2025-09-06 08:24:17,664 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:24:17] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:24:18,679 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:24:18] "GET /progress/fea92db1-270e-4db1-8954-1df564c3a58a HTTP/1.1" 200 -
+2025-09-06 08:24:19,687 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:24:19] "GET /progress/fea92db1-270e-4db1-8954-1df564c3a58a HTTP/1.1" 200 -
+2025-09-06 08:24:20,681 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:24:20] "GET /progress/fea92db1-270e-4db1-8954-1df564c3a58a HTTP/1.1" 200 -
+2025-09-06 08:24:21,681 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:24:21] "GET /progress/fea92db1-270e-4db1-8954-1df564c3a58a HTTP/1.1" 200 -
+2025-09-06 08:24:22,762 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:24:22] "GET /progress/fea92db1-270e-4db1-8954-1df564c3a58a HTTP/1.1" 200 -
+2025-09-06 08:24:23,790 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:24:23] "GET /progress/fea92db1-270e-4db1-8954-1df564c3a58a HTTP/1.1" 200 -
+2025-09-06 08:24:24,696 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:24:24] "GET /progress/fea92db1-270e-4db1-8954-1df564c3a58a HTTP/1.1" 200 -
+2025-09-06 08:24:25,720 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:24:25] "GET /progress/fea92db1-270e-4db1-8954-1df564c3a58a HTTP/1.1" 200 -
+2025-09-06 08:24:26,718 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:24:26] "GET /progress/fea92db1-270e-4db1-8954-1df564c3a58a HTTP/1.1" 200 -
+2025-09-06 08:24:26,806 - __main__ - ERROR - Error during download process: download_range() takes 1 positional argument but 2 were given
+2025-09-06 08:24:27,682 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:24:27] "GET /progress/fea92db1-270e-4db1-8954-1df564c3a58a HTTP/1.1" 200 -
+2025-09-06 08:28:01,805 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-06 08:28:01,986 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:28:03,273 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:28:03,281 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:28:03,349 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:28:16,372 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-06 08:28:16,512 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:28:17,757 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:28:17,761 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:28:17,830 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:28:31,897 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-06 08:28:32,015 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:28:33,195 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:28:33,199 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:28:33,276 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:28:38,054 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:28:38] "GET / HTTP/1.1" 200 -
+2025-09-06 08:28:39,442 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:28:39] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-09-06 08:28:39,442 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:28:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-09-06 08:28:51,639 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:28:51] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:28:52,732 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:28:52] "GET /progress/c8d52e6c-b48c-47d2-af99-4a42d3a389fc HTTP/1.1" 200 -
+2025-09-06 08:28:53,658 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:28:53] "GET /progress/c8d52e6c-b48c-47d2-af99-4a42d3a389fc HTTP/1.1" 200 -
+2025-09-06 08:28:54,654 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:28:54] "GET /progress/c8d52e6c-b48c-47d2-af99-4a42d3a389fc HTTP/1.1" 200 -
+2025-09-06 08:28:55,655 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:28:55] "GET /progress/c8d52e6c-b48c-47d2-af99-4a42d3a389fc HTTP/1.1" 200 -
+2025-09-06 08:28:56,651 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:28:56] "GET /progress/c8d52e6c-b48c-47d2-af99-4a42d3a389fc HTTP/1.1" 200 -
+2025-09-06 08:28:57,651 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:28:57] "GET /progress/c8d52e6c-b48c-47d2-af99-4a42d3a389fc HTTP/1.1" 200 -
+2025-09-06 08:28:58,710 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:28:58] "GET /progress/c8d52e6c-b48c-47d2-af99-4a42d3a389fc HTTP/1.1" 200 -
+2025-09-06 08:28:59,702 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:28:59] "GET /progress/c8d52e6c-b48c-47d2-af99-4a42d3a389fc HTTP/1.1" 200 -
+2025-09-06 08:29:00,711 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:29:00] "GET /progress/c8d52e6c-b48c-47d2-af99-4a42d3a389fc HTTP/1.1" 200 -
+2025-09-06 08:29:01,723 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:29:01] "GET /progress/c8d52e6c-b48c-47d2-af99-4a42d3a389fc HTTP/1.1" 200 -
+2025-09-06 08:29:02,582 - __main__ - ERROR - Error during download process: download_range() takes 1 positional argument but 2 were given
+2025-09-06 08:29:02,650 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:29:02] "GET /progress/c8d52e6c-b48c-47d2-af99-4a42d3a389fc HTTP/1.1" 200 -
+2025-09-06 08:31:48,137 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-06 08:31:48,312 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:31:49,436 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:31:49,441 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:31:49,512 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:32:01,951 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:01] "GET / HTTP/1.1" 200 -
+2025-09-06 08:32:03,393 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:03] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-09-06 08:32:03,394 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:03] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-09-06 08:32:13,876 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:13] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:32:14,950 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:14] "GET /progress/2e4ccf49-33b9-45bd-8707-d6d975302478 HTTP/1.1" 200 -
+2025-09-06 08:32:15,993 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:15] "GET /progress/2e4ccf49-33b9-45bd-8707-d6d975302478 HTTP/1.1" 200 -
+2025-09-06 08:32:16,919 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:16] "GET /progress/2e4ccf49-33b9-45bd-8707-d6d975302478 HTTP/1.1" 200 -
+2025-09-06 08:32:17,912 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:17] "GET /progress/2e4ccf49-33b9-45bd-8707-d6d975302478 HTTP/1.1" 200 -
+2025-09-06 08:32:18,922 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:18] "GET /progress/2e4ccf49-33b9-45bd-8707-d6d975302478 HTTP/1.1" 200 -
+2025-09-06 08:32:19,919 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:19] "GET /progress/2e4ccf49-33b9-45bd-8707-d6d975302478 HTTP/1.1" 200 -
+2025-09-06 08:32:20,927 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:20] "GET /progress/2e4ccf49-33b9-45bd-8707-d6d975302478 HTTP/1.1" 200 -
+2025-09-06 08:32:21,962 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:21] "GET /progress/2e4ccf49-33b9-45bd-8707-d6d975302478 HTTP/1.1" 200 -
+2025-09-06 08:32:22,977 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:22] "GET /progress/2e4ccf49-33b9-45bd-8707-d6d975302478 HTTP/1.1" 200 -
+2025-09-06 08:32:23,957 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:23] "GET /progress/2e4ccf49-33b9-45bd-8707-d6d975302478 HTTP/1.1" 200 -
+2025-09-06 08:32:24,968 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:24] "GET /progress/2e4ccf49-33b9-45bd-8707-d6d975302478 HTTP/1.1" 200 -
+2025-09-06 08:32:25,515 - __main__ - ERROR - Error during download process: 'list' object is not callable
+2025-09-06 08:32:25,919 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:32:25] "GET /progress/2e4ccf49-33b9-45bd-8707-d6d975302478 HTTP/1.1" 200 -
+2025-09-06 08:34:16,581 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-06 08:34:16,768 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:34:17,872 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:34:17,876 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:34:17,946 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:35:26,073 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-06 08:35:26,205 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:35:27,427 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:35:27,431 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:35:27,493 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:35:32,401 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-06 08:35:32,534 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:35:33,547 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:35:33,551 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:35:33,618 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:35:45,110 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:35:45] "GET / HTTP/1.1" 200 -
+2025-09-06 08:35:46,600 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:35:46] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-09-06 08:35:46,602 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:35:46] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-09-06 08:35:57,891 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:35:57] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:35:58,958 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:35:58] "GET /progress/46e6cb90-4757-4a87-9fc4-44f948181e35 HTTP/1.1" 200 -
+2025-09-06 08:35:59,915 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:35:59] "GET /progress/46e6cb90-4757-4a87-9fc4-44f948181e35 HTTP/1.1" 200 -
+2025-09-06 08:36:00,913 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:36:00] "GET /progress/46e6cb90-4757-4a87-9fc4-44f948181e35 HTTP/1.1" 200 -
+2025-09-06 08:36:01,910 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:36:01] "GET /progress/46e6cb90-4757-4a87-9fc4-44f948181e35 HTTP/1.1" 200 -
+2025-09-06 08:36:02,914 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:36:02] "GET /progress/46e6cb90-4757-4a87-9fc4-44f948181e35 HTTP/1.1" 200 -
+2025-09-06 08:36:03,916 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:36:03] "GET /progress/46e6cb90-4757-4a87-9fc4-44f948181e35 HTTP/1.1" 200 -
+2025-09-06 08:36:04,944 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:36:04] "GET /progress/46e6cb90-4757-4a87-9fc4-44f948181e35 HTTP/1.1" 200 -
+2025-09-06 08:36:05,985 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:36:05] "GET /progress/46e6cb90-4757-4a87-9fc4-44f948181e35 HTTP/1.1" 200 -
+2025-09-06 08:36:06,951 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:36:06] "GET /progress/46e6cb90-4757-4a87-9fc4-44f948181e35 HTTP/1.1" 200 -
+2025-09-06 08:36:07,961 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:36:07] "GET /progress/46e6cb90-4757-4a87-9fc4-44f948181e35 HTTP/1.1" 200 -
+2025-09-06 08:36:08,763 - __main__ - ERROR - Error during download process: tuple indices must be integers or slices, not str
+2025-09-06 08:36:08,910 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:36:08] "GET /progress/46e6cb90-4757-4a87-9fc4-44f948181e35 HTTP/1.1" 200 -
+2025-09-06 08:36:51,271 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-06 08:36:51,435 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:36:52,765 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:36:52,769 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:36:52,842 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:36:56,424 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-06 08:36:56,570 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:36:57,821 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:36:57,825 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:36:57,888 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:37:33,274 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:37:33] "GET / HTTP/1.1" 200 -
+2025-09-06 08:37:34,668 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:37:34] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-09-06 08:37:34,668 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:37:34] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-09-06 08:37:45,261 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:37:45] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:37:46,316 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:37:46] "GET /progress/a477504b-526f-4be1-8c92-d59fcea4464c HTTP/1.1" 200 -
+2025-09-06 08:37:47,301 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:37:47] "GET /progress/a477504b-526f-4be1-8c92-d59fcea4464c HTTP/1.1" 200 -
+2025-09-06 08:37:48,286 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:37:48] "GET /progress/a477504b-526f-4be1-8c92-d59fcea4464c HTTP/1.1" 200 -
+2025-09-06 08:37:49,284 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:37:49] "GET /progress/a477504b-526f-4be1-8c92-d59fcea4464c HTTP/1.1" 200 -
+2025-09-06 08:37:50,279 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:37:50] "GET /progress/a477504b-526f-4be1-8c92-d59fcea4464c HTTP/1.1" 200 -
+2025-09-06 08:37:51,291 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:37:51] "GET /progress/a477504b-526f-4be1-8c92-d59fcea4464c HTTP/1.1" 200 -
+2025-09-06 08:37:52,324 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:37:52] "GET /progress/a477504b-526f-4be1-8c92-d59fcea4464c HTTP/1.1" 200 -
+2025-09-06 08:37:53,354 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:37:53] "GET /progress/a477504b-526f-4be1-8c92-d59fcea4464c HTTP/1.1" 200 -
+2025-09-06 08:37:54,304 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:37:54] "GET /progress/a477504b-526f-4be1-8c92-d59fcea4464c HTTP/1.1" 200 -
+2025-09-06 08:37:55,360 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:37:55] "GET /progress/a477504b-526f-4be1-8c92-d59fcea4464c HTTP/1.1" 200 -
+2025-09-06 08:37:56,100 - __main__ - ERROR - Error during download process: tuple indices must be integers or slices, not str
+2025-09-06 08:37:56,280 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:37:56] "GET /progress/a477504b-526f-4be1-8c92-d59fcea4464c HTTP/1.1" 200 -
+2025-09-06 08:39:15,576 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-06 08:39:15,707 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:39:17,110 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:39:17,115 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:39:17,183 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:39:26,151 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-06 08:39:26,287 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:39:27,673 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:39:27,677 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:39:27,748 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:39:36,588 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-06 08:39:36,727 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:39:38,288 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:39:38,293 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:39:38,371 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:39:39,038 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:39:39] "GET / HTTP/1.1" 200 -
+2025-09-06 08:39:39,384 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:39:39] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-09-06 08:39:39,386 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:39:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-09-06 08:39:50,033 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:39:50] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:39:51,142 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:39:51] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:39:52,131 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:39:52] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:39:53,063 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:39:53] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:39:54,063 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:39:54] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:39:55,059 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:39:55] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:39:56,063 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:39:56] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:39:57,100 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:39:57] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:39:58,113 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:39:58] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:39:59,091 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:39:59] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:40:00,134 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:40:00] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:40:01,116 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:40:01] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:40:02,063 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:40:02] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:40:03,062 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:40:03] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:40:04,060 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:40:04] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:40:05,073 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:40:05] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:40:06,071 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:40:06] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:40:07,059 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:40:07] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:40:08,067 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:40:08] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:40:09,062 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:40:09] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:40:10,999 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:40:10] "GET /progress/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:40:40,975 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:40:40] "GET /downloads/9ae78724-85c7-4b2e-8443-1edf4b717106 HTTP/1.1" 200 -
+2025-09-06 08:41:06,118 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:06] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:41:07,134 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:07] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:08,136 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:08] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:09,135 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:09] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:10,141 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:10] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:11,191 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:11] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:12,169 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:12] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:13,183 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:13] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:14,163 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:14] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:15,159 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:15] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:16,139 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:16] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:17,133 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:17] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:18,139 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:18] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:19,139 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:19] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:20,137 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:20] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:21,138 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:21] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:22,137 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:22] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:23,137 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:23] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:24,137 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:24] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:25,141 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:25] "GET /progress/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:26,731 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:26] "GET /downloads/541fd2de-232d-4e76-9945-46c590806261 HTTP/1.1" 200 -
+2025-09-06 08:41:41,464 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:41] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:41:42,491 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:42] "GET /progress/3744f6bf-b00d-482f-897b-1de99afbb6cd HTTP/1.1" 200 -
+2025-09-06 08:41:43,479 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:43] "GET /progress/3744f6bf-b00d-482f-897b-1de99afbb6cd HTTP/1.1" 200 -
+2025-09-06 08:41:44,484 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:44] "GET /progress/3744f6bf-b00d-482f-897b-1de99afbb6cd HTTP/1.1" 200 -
+2025-09-06 08:41:45,489 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:45] "GET /progress/3744f6bf-b00d-482f-897b-1de99afbb6cd HTTP/1.1" 200 -
+2025-09-06 08:41:46,526 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:46] "GET /progress/3744f6bf-b00d-482f-897b-1de99afbb6cd HTTP/1.1" 200 -
+2025-09-06 08:41:47,520 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:47] "GET /progress/3744f6bf-b00d-482f-897b-1de99afbb6cd HTTP/1.1" 200 -
+2025-09-06 08:41:48,533 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:48] "GET /progress/3744f6bf-b00d-482f-897b-1de99afbb6cd HTTP/1.1" 200 -
+2025-09-06 08:41:49,546 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:49] "GET /progress/3744f6bf-b00d-482f-897b-1de99afbb6cd HTTP/1.1" 200 -
+2025-09-06 08:41:50,514 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:50] "GET /progress/3744f6bf-b00d-482f-897b-1de99afbb6cd HTTP/1.1" 200 -
+2025-09-06 08:41:51,489 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:51] "GET /progress/3744f6bf-b00d-482f-897b-1de99afbb6cd HTTP/1.1" 200 -
+2025-09-06 08:41:53,001 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:41:53] "GET /progress/3744f6bf-b00d-482f-897b-1de99afbb6cd HTTP/1.1" 200 -
+2025-09-06 08:42:07,905 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:42:07] "GET /downloads/3744f6bf-b00d-482f-897b-1de99afbb6cd HTTP/1.1" 200 -
+2025-09-06 08:50:58,584 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 08:50:59,917 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:50:59] "GET / HTTP/1.1" 200 -
+2025-09-06 08:51:00,929 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:00] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-09-06 08:51:00,945 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:00] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-09-06 08:51:01,238 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-06 08:51:17,603 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:17] "POST /download HTTP/1.1" 200 -
+2025-09-06 08:51:18,622 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:18] "GET /progress/f2255b26-fe82-4dba-aab2-8714458cb58d HTTP/1.1" 200 -
+2025-09-06 08:51:19,629 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:19] "GET /progress/f2255b26-fe82-4dba-aab2-8714458cb58d HTTP/1.1" 200 -
+2025-09-06 08:51:20,626 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:20] "GET /progress/f2255b26-fe82-4dba-aab2-8714458cb58d HTTP/1.1" 200 -
+2025-09-06 08:51:21,627 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:21] "GET /progress/f2255b26-fe82-4dba-aab2-8714458cb58d HTTP/1.1" 200 -
+2025-09-06 08:51:22,625 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:22] "GET /progress/f2255b26-fe82-4dba-aab2-8714458cb58d HTTP/1.1" 200 -
+2025-09-06 08:51:23,628 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:23] "GET /progress/f2255b26-fe82-4dba-aab2-8714458cb58d HTTP/1.1" 200 -
+2025-09-06 08:51:24,636 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:24] "GET /progress/f2255b26-fe82-4dba-aab2-8714458cb58d HTTP/1.1" 200 -
+2025-09-06 08:51:25,629 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:25] "GET /progress/f2255b26-fe82-4dba-aab2-8714458cb58d HTTP/1.1" 200 -
+2025-09-06 08:51:26,628 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:26] "GET /progress/f2255b26-fe82-4dba-aab2-8714458cb58d HTTP/1.1" 200 -
+2025-09-06 08:51:27,620 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:27] "GET /progress/f2255b26-fe82-4dba-aab2-8714458cb58d HTTP/1.1" 200 -
+2025-09-06 08:51:28,629 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:28] "GET /progress/f2255b26-fe82-4dba-aab2-8714458cb58d HTTP/1.1" 200 -
+2025-09-06 08:51:29,623 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:29] "GET /progress/f2255b26-fe82-4dba-aab2-8714458cb58d HTTP/1.1" 200 -
+2025-09-06 08:51:30,620 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:30] "GET /progress/f2255b26-fe82-4dba-aab2-8714458cb58d HTTP/1.1" 200 -
+2025-09-06 08:51:31,621 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:31] "GET /progress/f2255b26-fe82-4dba-aab2-8714458cb58d HTTP/1.1" 200 -
+2025-09-06 08:51:33,803 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 08:51:33] "GET /downloads/f2255b26-fe82-4dba-aab2-8714458cb58d HTTP/1.1" 200 -
+2025-09-06 08:59:11,889 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 08:59:13,147 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 08:59:13,149 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 08:59:13,206 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 09:01:40,165 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\desktop_app.py', reloading
+2025-09-06 09:01:40,266 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 09:01:41,730 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 09:01:41,733 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 09:01:41,809 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 09:01:54,950 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 09:01:56,066 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 09:01:56,068 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 09:01:56,136 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 09:03:44,407 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 09:03:45,493 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 09:03:45,498 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 09:03:45,557 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 09:03:51,390 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 09:03:51] "GET / HTTP/1.1" 200 -
+2025-09-06 09:03:53,112 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 09:03:53] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-09-06 09:03:53,117 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 09:03:53] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-09-06 09:05:39,437 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\desktop_app.py', reloading
+2025-09-06 09:05:39,573 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 09:05:40,992 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 09:05:40,997 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 09:05:41,065 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 09:05:49,943 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\build_exe.py', reloading
+2025-09-06 09:05:50,070 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 09:05:51,349 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 09:05:51,351 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 09:05:51,419 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-06 09:05:58,974 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\desktop_app.py', reloading
+2025-09-06 09:05:59,116 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 09:06:00,483 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 09:06:00,489 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-09-06 09:06:00,571 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-26 07:12:33,658 - werkzeug - INFO -  * Restarting with stat
+2025-09-26 07:12:34,669 - werkzeug - WARNING -  * Debugger is active!
+2025-09-26 07:12:34,678 - werkzeug - INFO -  * Debugger PIN: 107-798-582
+2025-09-26 07:12:34,819 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-26 07:15:02,646 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:02] "GET / HTTP/1.1" 200 -
+2025-09-26 07:15:04,645 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:04] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-09-26 07:15:04,645 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:04] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-09-26 07:15:19,050 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:19] "POST /download HTTP/1.1" 200 -
+2025-09-26 07:15:20,110 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:20] "GET /progress/80dac146-a1dd-473e-95e6-fcd3522e7e76 HTTP/1.1" 200 -
+2025-09-26 07:15:21,124 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:21] "GET /progress/80dac146-a1dd-473e-95e6-fcd3522e7e76 HTTP/1.1" 200 -
+2025-09-26 07:15:22,077 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:22] "GET /progress/80dac146-a1dd-473e-95e6-fcd3522e7e76 HTTP/1.1" 200 -
+2025-09-26 07:15:23,080 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:23] "GET /progress/80dac146-a1dd-473e-95e6-fcd3522e7e76 HTTP/1.1" 200 -
+2025-09-26 07:15:24,079 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:24] "GET /progress/80dac146-a1dd-473e-95e6-fcd3522e7e76 HTTP/1.1" 200 -
+2025-09-26 07:15:25,079 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:25] "GET /progress/80dac146-a1dd-473e-95e6-fcd3522e7e76 HTTP/1.1" 200 -
+2025-09-26 07:15:26,111 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:26] "GET /progress/80dac146-a1dd-473e-95e6-fcd3522e7e76 HTTP/1.1" 200 -
+2025-09-26 07:15:27,096 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:27] "GET /progress/80dac146-a1dd-473e-95e6-fcd3522e7e76 HTTP/1.1" 200 -
+2025-09-26 07:15:28,157 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:28] "GET /progress/80dac146-a1dd-473e-95e6-fcd3522e7e76 HTTP/1.1" 200 -
+2025-09-26 07:15:29,095 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:29] "GET /progress/80dac146-a1dd-473e-95e6-fcd3522e7e76 HTTP/1.1" 200 -
+2025-09-26 07:15:30,120 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:30] "GET /progress/80dac146-a1dd-473e-95e6-fcd3522e7e76 HTTP/1.1" 200 -
+2025-09-26 07:15:31,106 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:31] "GET /progress/80dac146-a1dd-473e-95e6-fcd3522e7e76 HTTP/1.1" 200 -
+2025-09-26 07:15:31,921 - __main__ - ERROR - Error during download process for 80dac146-a1dd-473e-95e6-fcd3522e7e76: [0;31mERROR:[0m You have requested downloading the video partially, but ffmpeg is not installed. Aborting
+2025-09-26 07:15:32,075 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:15:32] "GET /progress/80dac146-a1dd-473e-95e6-fcd3522e7e76 HTTP/1.1" 200 -
+2025-09-26 07:20:11,928 - werkzeug - INFO -  * Restarting with stat
+2025-09-26 07:20:12,820 - werkzeug - WARNING -  * Debugger is active!
+2025-09-26 07:20:12,827 - werkzeug - INFO -  * Debugger PIN: 107-798-582
+2025-09-26 07:20:12,919 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-26 07:20:17,851 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:20:17] "GET / HTTP/1.1" 200 -
+2025-09-26 07:20:19,962 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:20:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-09-26 07:20:19,962 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:20:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-09-26 07:20:34,028 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:20:34] "POST /download HTTP/1.1" 200 -
+2025-09-26 07:20:35,126 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:20:35] "GET /progress/8f4d9b39-0b0e-41a2-9d42-fc04e3e4cc54 HTTP/1.1" 200 -
+2025-09-26 07:20:36,072 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:20:36] "GET /progress/8f4d9b39-0b0e-41a2-9d42-fc04e3e4cc54 HTTP/1.1" 200 -
+2025-09-26 07:20:37,069 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:20:37] "GET /progress/8f4d9b39-0b0e-41a2-9d42-fc04e3e4cc54 HTTP/1.1" 200 -
+2025-09-26 07:20:38,053 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:20:38] "GET /progress/8f4d9b39-0b0e-41a2-9d42-fc04e3e4cc54 HTTP/1.1" 200 -
+2025-09-26 07:20:39,049 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:20:39] "GET /progress/8f4d9b39-0b0e-41a2-9d42-fc04e3e4cc54 HTTP/1.1" 200 -
+2025-09-26 07:20:40,057 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:20:40] "GET /progress/8f4d9b39-0b0e-41a2-9d42-fc04e3e4cc54 HTTP/1.1" 200 -
+2025-09-26 07:20:41,064 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:20:41] "GET /progress/8f4d9b39-0b0e-41a2-9d42-fc04e3e4cc54 HTTP/1.1" 200 -
+2025-09-26 07:20:42,052 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:20:42] "GET /progress/8f4d9b39-0b0e-41a2-9d42-fc04e3e4cc54 HTTP/1.1" 200 -
+2025-09-26 07:20:43,051 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:20:43] "GET /progress/8f4d9b39-0b0e-41a2-9d42-fc04e3e4cc54 HTTP/1.1" 200 -
+2025-09-26 07:20:44,054 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:20:44] "GET /progress/8f4d9b39-0b0e-41a2-9d42-fc04e3e4cc54 HTTP/1.1" 200 -
+2025-09-26 07:20:44,366 - __main__ - ERROR - Error during download process for 8f4d9b39-0b0e-41a2-9d42-fc04e3e4cc54: [0;31mERROR:[0m [youtube] CO8XtwSCW38: This video has been removed for violating YouTube's Terms of Service
+2025-09-26 07:20:45,066 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:20:45] "GET /progress/8f4d9b39-0b0e-41a2-9d42-fc04e3e4cc54 HTTP/1.1" 200 -
+2025-09-26 07:21:12,835 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:12] "POST /download HTTP/1.1" 200 -
+2025-09-26 07:21:13,916 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:13] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:14,857 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:14] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:15,855 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:15] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:16,860 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:16] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:17,863 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:17] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:18,862 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:18] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:19,859 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:19] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:20,867 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:20] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:21,966 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:21] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:22,920 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:22] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:23,909 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:23] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:24,880 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:24] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:25,873 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:25] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:26,898 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:26] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:27,881 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:27] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:28,925 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:28] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:29,900 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:29] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:21:30,696 - __main__ - ERROR - Error during download process for a591a1dd-e837-4f49-b80c-3ca4b9894761: [0;31mERROR:[0m You have requested downloading the video partially, but ffmpeg is not installed. Aborting
+2025-09-26 07:21:30,850 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:21:30] "GET /progress/a591a1dd-e837-4f49-b80c-3ca4b9894761 HTTP/1.1" 200 -
+2025-09-26 07:24:24,530 - werkzeug - INFO -  * Restarting with stat
+2025-09-26 07:24:25,464 - werkzeug - WARNING -  * Debugger is active!
+2025-09-26 07:24:25,473 - werkzeug - INFO -  * Debugger PIN: 107-798-582
+2025-09-26 07:24:25,606 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-26 07:24:34,501 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:34] "GET / HTTP/1.1" 200 -
+2025-09-26 07:24:35,266 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:35] "GET / HTTP/1.1" 200 -
+2025-09-26 07:24:37,031 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-09-26 07:24:37,033 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:37] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-09-26 07:24:37,791 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:37] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-09-26 07:24:37,791 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:37] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-09-26 07:24:50,019 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:50] "POST /download HTTP/1.1" 200 -
+2025-09-26 07:24:51,113 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:51] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:24:52,081 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:52] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:24:53,063 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:53] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:24:54,050 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:54] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:24:55,142 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:55] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:24:56,055 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:56] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:24:57,049 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:57] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:24:58,053 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:58] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:24:59,057 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:24:59] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:25:00,112 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:25:00] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:25:01,091 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:25:01] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:25:02,059 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:25:02] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:25:03,063 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:25:03] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:25:04,071 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:25:04] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:25:05,075 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:25:05] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:25:06,110 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:25:06] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:25:07,074 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:25:07] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:25:08,104 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:25:08] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:25:09,089 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:25:09] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:25:10,059 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:25:10] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:25:11,121 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:25:11] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:25:11,462 - __main__ - ERROR - Error during download process for ebd1e5a1-9e99-4ce0-a6fd-af497afd7128: [0;31mERROR:[0m You have requested downloading the video partially, but ffmpeg is not installed. Aborting
+2025-09-26 07:25:12,051 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:25:12] "GET /progress/ebd1e5a1-9e99-4ce0-a6fd-af497afd7128 HTTP/1.1" 200 -
+2025-09-26 07:29:51,938 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-26 07:29:52,141 - werkzeug - INFO -  * Restarting with stat
+2025-09-26 07:29:53,430 - werkzeug - WARNING -  * Debugger is active!
+2025-09-26 07:29:53,442 - werkzeug - INFO -  * Debugger PIN: 107-798-582
+2025-09-26 07:29:53,547 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-26 07:30:09,928 - werkzeug - INFO -  * Restarting with stat
+2025-09-26 07:30:10,949 - werkzeug - WARNING -  * Debugger is active!
+2025-09-26 07:30:10,960 - werkzeug - INFO -  * Debugger PIN: 107-798-582
+2025-09-26 07:30:11,062 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-26 07:30:17,997 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:17] "GET / HTTP/1.1" 200 -
+2025-09-26 07:30:19,718 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-09-26 07:30:19,718 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-09-26 07:30:39,639 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:39] "POST /download HTTP/1.1" 200 -
+2025-09-26 07:30:40,718 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:40] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:41,671 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:41] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:42,677 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:42] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:43,681 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:43] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:44,681 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:44] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:45,740 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:45] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:46,681 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:46] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:47,673 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:47] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:48,680 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:48] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:49,719 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:49] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:50,692 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:50] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:51,687 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:51] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:52,687 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:52] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:53,709 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:53] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:54,728 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:54] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:55,687 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:55] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:56,717 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:56] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:57,687 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:57] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:58,728 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:58] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:30:59,703 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:30:59] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:31:00,718 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:31:00] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:31:00,992 - __main__ - ERROR - Error during download process for 4ea085b6-64dd-43f2-9226-222bbafa7aef: [0;31mERROR:[0m You have requested downloading the video partially, but ffmpeg is not installed. Aborting
+2025-09-26 07:31:01,680 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:31:01] "GET /progress/4ea085b6-64dd-43f2-9226-222bbafa7aef HTTP/1.1" 200 -
+2025-09-26 07:33:19,780 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL\\Desktop\\portfolio\\files (29)\\app.py', reloading
+2025-09-26 07:33:19,930 - werkzeug - INFO -  * Restarting with stat
+2025-09-26 07:33:21,078 - werkzeug - WARNING -  * Debugger is active!
+2025-09-26 07:33:21,086 - werkzeug - INFO -  * Debugger PIN: 107-798-582
+2025-09-26 07:33:21,193 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-26 07:34:17,530 - werkzeug - INFO -  * Restarting with stat
+2025-09-26 07:34:18,601 - werkzeug - WARNING -  * Debugger is active!
+2025-09-26 07:34:18,610 - werkzeug - INFO -  * Debugger PIN: 107-798-582
+2025-09-26 07:34:18,718 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-26 07:34:43,990 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:34:43] "GET / HTTP/1.1" 200 -
+2025-09-26 07:34:45,335 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:34:45] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-09-26 07:34:45,336 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:34:45] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-09-26 07:34:46,366 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:34:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-26 07:36:18,148 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:18] "POST /download HTTP/1.1" 200 -
+2025-09-26 07:36:19,242 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:19] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:20,191 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:20] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:21,176 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:21] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:22,182 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:22] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:23,181 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:23] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:24,177 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:24] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:25,184 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:25] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:26,171 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:26] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:27,193 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:27] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:28,204 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:28] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:29,208 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:29] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:30,209 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:30] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:31,184 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:31] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:32,198 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:32] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:33,191 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:33] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:34,258 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:34] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:36:35,021 - __main__ - ERROR - Error during download process for 5af976b8-5cf7-4a68-9fc0-1af8451f3c28: [0;31mERROR:[0m m3u8 download detected but ffmpeg could not be found. Please install
+2025-09-26 07:36:35,179 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:36:35] "GET /progress/5af976b8-5cf7-4a68-9fc0-1af8451f3c28 HTTP/1.1" 200 -
+2025-09-26 07:39:05,807 - werkzeug - INFO -  * Restarting with stat
+2025-09-26 07:39:06,882 - werkzeug - WARNING -  * Debugger is active!
+2025-09-26 07:39:06,891 - werkzeug - INFO -  * Debugger PIN: 107-798-582
+2025-09-26 07:39:06,997 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-09-26 07:39:15,228 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:15] "GET / HTTP/1.1" 200 -
+2025-09-26 07:39:17,407 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:17] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-09-26 07:39:17,411 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:17] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-09-26 07:39:30,055 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:30] "POST /download HTTP/1.1" 200 -
+2025-09-26 07:39:31,117 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:31] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:32,127 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:32] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:33,087 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:33] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:34,087 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:34] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:35,093 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:35] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:36,079 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:36] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:37,094 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:37] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:38,085 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:38] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:39,098 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:39] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:40,094 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:40] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:41,117 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:41] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:42,111 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:42] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:43,110 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:43] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:44,133 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:44] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:45,124 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:45] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:46,128 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:46] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:47,129 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:47] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:48,093 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:48] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-09-26 07:39:49,108 - werkzeug - INFO - 127.0.0.1 - - [26/Sep/2025 07:39:49] "GET /progress/6ec42d27-025f-4a8c-b0e3-fda73e500788 HTTP/1.1" 200 -
+2025-11-14 11:57:25,137 - werkzeug - INFO -  * Restarting with stat
+2025-11-14 11:57:26,004 - werkzeug - WARNING -  * Debugger is active!
+2025-11-14 11:57:26,011 - werkzeug - INFO -  * Debugger PIN: 122-877-453
+2025-11-14 11:57:26,136 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-11-14 11:57:47,875 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2025 11:57:47] "GET / HTTP/1.1" 200 -
+2025-11-14 11:57:48,581 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2025 11:57:48] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-14 11:57:48,586 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2025 11:57:48] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-11-14 11:57:54,125 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2025 11:57:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

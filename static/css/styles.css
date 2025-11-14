@@ -1,0 +1,335 @@
+/* Add this to the bottom of your existing CSS file */
+/* Base Tailwind imports */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles */
+body {
+    font-family: 'Exo 2', sans-serif;
+    background-color: #1a1a1a;
+    background-image: radial-gradient(circle at 50% 50%, #2a2a2a 0%, #1a1a1a 100%);
+    overflow-x: hidden;
+}
+
+/* Glowing background effect */
+.glow-effect {
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60vw;
+    height: 60vh;
+    background: radial-gradient(circle, rgba(230, 36, 41, 0.15) 0%, rgba(240, 179, 35, 0.05) 50%, rgba(0, 0, 0, 0) 70%);
+    z-index: 0;
+}
+
+/* Tech border for header */
+.tech-border {
+    position: relative;
+    border: 4px solid #e62429;
+    border-radius: 5px;
+    padding: 20px 40px;
+    box-shadow: 0 0 15px rgba(230, 36, 41, 0.6);
+}
+
+.tech-border::before, .tech-border::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border: 4px solid #f0b323;
+}
+
+.tech-border::before {
+    top: -4px;
+    left: -4px;
+    border-right: none;
+    border-bottom: none;
+}
+
+.tech-border::after {
+    bottom: -4px;
+    right: -4px;
+    border-left: none;
+    border-top: none;
+}
+
+/* Main panel styling */
+.tech-panel {
+    background-color: rgba(26, 26, 26, 0.8);
+    border: 2px solid #f0b323;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(240, 179, 35, 0.2), inset 0 0 30px rgba(240, 179, 35, 0.05);
+    backdrop-filter: blur(10px);
+    position: relative;
+    overflow: hidden;
+}
+
+.tech-panel::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #e62429, transparent);
+}
+
+/* Iron Tabs */
+.iron-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    width: 100%;
+}
+
+.iron-tab {
+    background-color: rgba(26, 26, 26, 0.9);
+    color: #f0f0f0;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 18px;
+    padding: 15px 25px;
+    border: 2px solid #3a3a3a;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    min-width: 180px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.iron-tab:hover {
+    border-color: #f0b323;
+    box-shadow: 0 0 10px rgba(240, 179, 35, 0.5);
+}
+
+.iron-tab.active-tab {
+    background-color: rgba(230, 36, 41, 0.2);
+    border-color: #e62429;
+    color: #f0b323;
+    box-shadow: 0 0 15px rgba(230, 36, 41, 0.6);
+}
+
+.iron-tab.active-tab::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: #e62429;
+}
+
+/* Iron Input */
+.iron-input {
+    width: 100%;
+    background-color: rgba(26, 26, 26, 0.9);
+    border: 2px solid #3a3a3a;
+    border-radius: 8px;
+    color: #f0f0f0;
+    padding: 15px 20px;
+    font-size: 18px;
+    transition: all 0.3s ease;
+}
+
+.iron-input:focus {
+    outline: none;
+    border-color: #e62429;
+    box-shadow: 0 0 15px rgba(230, 36, 41, 0.5);
+}
+
+.iron-input::placeholder {
+    color: #808080;
+}
+
+/* Iron Cards */
+.iron-card {
+    background: linear-gradient(145deg, #222, #1a1a1a);
+    border: 2px solid #3a3a3a;
+    border-radius: 10px;
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    height: 200px;
+}
+
+.iron-card::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: linear-gradient(90deg, transparent, #3a3a3a, transparent);
+}
+
+.iron-card:hover {
+    border-color: #f0b323;
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.iron-card.selected {
+    border-color: #e62429;
+    box-shadow: 0 0 20px rgba(230, 36, 41, 0.5);
+}
+
+.iron-card.selected::after {
+    background: linear-gradient(90deg, transparent, #e62429, transparent);
+}
+
+.iron-icon {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background: #1a1a1a;
+    border: 2px solid #3a3a3a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+    color: #f0b323;
+    transition: all 0.3s ease;
+}
+
+.iron-card.selected .iron-icon {
+    background: #e62429;
+    border-color: #f0b323;
+    color: #fff;
+    box-shadow: 0 0 15px rgba(230, 36, 41, 0.7);
+}
+
+/* Iron Button */
+.iron-button {
+    position: relative;
+    width: 100%;
+    background: linear-gradient(145deg, #e62429, #c91c21);
+    color: #fff;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 18px 30px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.iron-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4);
+}
+
+.iron-button:active {
+    transform: translateY(1px);
+}
+
+.button-glow {
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    animation: button-glow 3s infinite;
+}
+
+@keyframes button-glow {
+    0% { left: -100%; }
+    50% { left: 100%; }
+    100% { left: 100%; }
+}
+
+/* Status messages */
+.iron-status {
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 18px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    border-left: 4px solid;
+    background-color: rgba(26, 26, 26, 0.5);
+}
+
+.iron-status.success {
+    border-color: #22c55e;
+}
+
+.iron-status.error {
+    border-color: #ef4444;
+}
+
+.iron-status.info {
+    border-color: #3b82f6;
+}
+
+/* Animation for timestamp section */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+#timestamp-section.active {
+    display: grid;
+    animation: fadeIn 0.5s ease-in-out forwards;
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+    .iron-tabs {
+        flex-direction: column;
+    }
+    
+    .iron-tab {
+        width: 100%;
+    }
+    
+    .iron-button {
+        font-size: 16px;
+    }
+}
+/* Progress bar styling */
+.progress-container {
+    width: 100%;
+    height: 20px;
+    background-color: #2a2a2a;
+    border-radius: 10px;
+    margin-top: 15px;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid #3a3a3a;
+}
+
+.progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, #e62429, #f0b323);
+    border-radius: 10px;
+    transition: width 0.3s ease;
+    width: 0%;
+    box-shadow: 0 0 10px rgba(240, 179, 35, 0.5);
+}
+
+.progress-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-weight: bold;
+    text-shadow: 0 0 3px rgba(0, 0, 0, 0.7);
+    font-family: 'Orbitron', sans-serif;
+}
